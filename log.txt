@@ -1,0 +1,52 @@
+commit b1ea8109fa180bb7606ce89b943666a03b46ed5b
+Merge: d4c179f 6a074bd
+Author: yzrsamet <yzr.samet@gmail.com>
+Date:   Wed Jan 6 14:54:15 2021 +0100
+
+    Solve Conflict
+
+commit 6a074bd5512b1fa5e2a9aedc384af38c6e1c0d90
+Author: yzrsamet <yzr.samet@gmail.com>
+Date:   Wed Jan 6 14:52:01 2021 +0100
+
+    Update demo2
+
+ demo2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit d4c179f6820476a6007160400cce10982d82cfd0
+Author: yzrsamet <yzr.samet@gmail.com>
+Date:   Wed Jan 6 14:46:46 2021 +0100
+
+    Create branch BytTen, Update Demo2
+
+ demo2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a68da6f18fb2fed388b28ac4a0b303643d64824d
+Author: yzrsamet <yzr.samet@gmail.com>
+Date:   Wed Jan 6 14:43:33 2021 +0100
+
+    Create demo2 txt file
+
+ demo2.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 95cc4211f1c751f683590bbba583b6c19b5d1115
+Author: yzrsamet <yzr.samet@gmail.com>
+Date:   Wed Jan 6 14:42:33 2021 +0100
+
+    Create demo txt file
+
+ demo.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 4f3c8aae9305f4b080ca207176df2d50f20025bc
+Author: Samet YAZAR <46197338+Samet-YAZAR@users.noreply.github.com>
+Date:   Wed Jan 6 14:30:30 2021 +0100
+
+    Initial commit
+
+ .gitignore | 23 +++++++++++++++++++++++
+ README.md  |  1 +
+ 2 files changed, 24 insertions(+)
